@@ -1,0 +1,21 @@
+{
+  "action": "jschallenge",
+  "clientASNDescription": "VNPT-AS-VN VNPT Corp",
+  "clientAsn": "45899",
+  "clientCountryName": "VN",
+  "clientIP": "14.229.125.96",
+  "clientRequestHTTPHost": "linkzoom-lop7a.ga",
+  "clientRequestHTTPMethodName": "GET",
+  "clientRequestHTTPProtocol": "HTTP/1.1",
+  "clientRequestPath": "/",
+  "clientRequestQuery": "",
+  "datetime": "2021-03-30T01:33:27Z",
+  "rayName": "637d9705785adddf",
+  "ruleId": "iuam",
+  "rulesetId": "",
+  "source": "securitylevel",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.63",
+  "matchIndex": 0,
+  "metadata": [],
+  "sampleInterval": 1
+}
